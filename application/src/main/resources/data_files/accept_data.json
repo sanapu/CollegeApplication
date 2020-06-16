@@ -1,0 +1,12 @@
+{
+  "firstName":"Fname",
+  "lastName":"Lname",
+  "age":"22",
+  "gpa":"3.7",
+  "maxGpa":"5",
+  "inState":"california",
+  "fromState":"california",
+  "satScore":"1935",
+  "actScore":"",
+  "felonies":"0"
+}
